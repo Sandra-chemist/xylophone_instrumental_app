@@ -29,7 +29,7 @@ class XylophoneApp extends StatelessWidget {
                 ),
                 onPressed: () async {
                   final player = AudioPlayer();
-                  player.play(AssetSource('note1.wav'));
+                  player.play(AssetSource('note2.wav'));
                 },
                 child: Text(''),
               ),
@@ -39,7 +39,7 @@ class XylophoneApp extends StatelessWidget {
                 ),
                 onPressed: () async {
                   final player = AudioPlayer();
-                  player.play(AssetSource('note1.wav'));
+                  player.play(AssetSource('note3.wav'));
                 },
                 child: Text(''),
               ),
@@ -49,7 +49,7 @@ class XylophoneApp extends StatelessWidget {
                 ),
                 onPressed: () async {
                   final player = AudioPlayer();
-                  player.play(AssetSource('note1.wav'));
+                  player.play(AssetSource('note4.wav'));
                 },
                 child: Text(''),
               ),
@@ -59,7 +59,7 @@ class XylophoneApp extends StatelessWidget {
                 ),
                 onPressed: () async {
                   final player = AudioPlayer();
-                  player.play(AssetSource('note1.wav'));
+                  player.play(AssetSource('note5.wav'));
                 },
                 child: Text(''),
               ),
@@ -69,7 +69,7 @@ class XylophoneApp extends StatelessWidget {
                 ),
                 onPressed: () async {
                   final player = AudioPlayer();
-                  player.play(AssetSource('note1.wav'));
+                  player.play(AssetSource('note6.wav'));
                 },
                 child: Text(''),
               ),
@@ -79,7 +79,7 @@ class XylophoneApp extends StatelessWidget {
                 ),
                 onPressed: () async {
                   final player = AudioPlayer();
-                  player.play(AssetSource('note1.wav'));
+                  player.play(AssetSource('note7.wav'));
                 },
                 child: Text(''),
               ),
